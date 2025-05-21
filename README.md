@@ -48,4 +48,4 @@ The repository includes several CSV files containing test data and results:
 
 ## License
 
-This project is licensed under the CC Zero License - see the LICENSE file for details. 
+This project is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. 
