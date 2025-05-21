@@ -1,6 +1,6 @@
 # Dify Retrieval Test
 
-This repository contains the analysis code and data for testing Dify's retrieval capabilities.
+This repository contains the analysis code and data for testing Dify's retrieval precision and robustness.
 
 ## Project Structure
 
